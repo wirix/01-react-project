@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/samurai-test-media/static/css/main.233e482e.css",
+    "main.js": "/samurai-test-media/static/js/main.f79743f1.js",
+    "static/css/672.3ea490f4.chunk.css": "/samurai-test-media/static/css/672.3ea490f4.chunk.css",
+    "static/js/672.c8507eb8.chunk.js": "/samurai-test-media/static/js/672.c8507eb8.chunk.js",
+    "static/css/354.2cda312e.chunk.css": "/samurai-test-media/static/css/354.2cda312e.chunk.css",
+    "static/js/354.2a96a7ff.chunk.js": "/samurai-test-media/static/js/354.2a96a7ff.chunk.js",
+    "static/css/809.7828cc0b.chunk.css": "/samurai-test-media/static/css/809.7828cc0b.chunk.css",
+    "static/js/809.62445406.chunk.js": "/samurai-test-media/static/js/809.62445406.chunk.js",
+    "static/js/787.174057b7.chunk.js": "/samurai-test-media/static/js/787.174057b7.chunk.js",
+    "static/media/user.jpg": "/samurai-test-media/static/media/user.21ecd6f07de173881d3e.jpg",
+    "static/media/preloader.svg": "/samurai-test-media/static/media/preloader.34aadc9de4917c9ad44cea34f4f51fad.svg",
+    "index.html": "/samurai-test-media/index.html",
+    "main.233e482e.css.map": "/samurai-test-media/static/css/main.233e482e.css.map",
+    "main.f79743f1.js.map": "/samurai-test-media/static/js/main.f79743f1.js.map",
+    "672.3ea490f4.chunk.css.map": "/samurai-test-media/static/css/672.3ea490f4.chunk.css.map",
+    "672.c8507eb8.chunk.js.map": "/samurai-test-media/static/js/672.c8507eb8.chunk.js.map",
+    "354.2cda312e.chunk.css.map": "/samurai-test-media/static/css/354.2cda312e.chunk.css.map",
+    "354.2a96a7ff.chunk.js.map": "/samurai-test-media/static/js/354.2a96a7ff.chunk.js.map",
+    "809.7828cc0b.chunk.css.map": "/samurai-test-media/static/css/809.7828cc0b.chunk.css.map",
+    "809.62445406.chunk.js.map": "/samurai-test-media/static/js/809.62445406.chunk.js.map",
+    "787.174057b7.chunk.js.map": "/samurai-test-media/static/js/787.174057b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233e482e.css",
+    "static/js/main.f79743f1.js"
+  ]
+}
